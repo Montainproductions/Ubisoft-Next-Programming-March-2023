@@ -1,0 +1,16 @@
+﻿  GameTest.cpp
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(128,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(128,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(143,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(143,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(159,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(159,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(174,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(174,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(272,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(272,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(312,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(312,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameTest.vcxproj -> D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\x64\Debug\GameTest.exe
+  D:\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
